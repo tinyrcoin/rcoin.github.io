@@ -9,3 +9,4 @@ fees are determined as a fixed 1.5% of a transaction's amount.
 The RCoin wallet can be downloaded from links below:
 
 * [Source Code](http://github.com/tinyrcoin/rcoin)
+* [Windows 32-bit Binaries](/tkwallet_win.zip)
