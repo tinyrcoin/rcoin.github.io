@@ -17,6 +17,7 @@ The current version is RCoinPlus-v1
 * Solo-mining is feasible.
 * No more coins after 7 years. (You will earn negative coins if you try to mine after then.)
 * Estimated total supply: 25540000 RCN.
+* Instant transaction times
 
 ## Obtain the wallet
 
@@ -27,4 +28,4 @@ The RCoin wallet can be downloaded from links below:
 
 ## Block Explorer
 
-[Basic Online Block Explorer](http://40.74.245.160:8000/cgi-bin/index.cgi)
+Currently offline.
