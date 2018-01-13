@@ -50,7 +50,7 @@ Currently offline.
 3. How do I mine?
    > If you are using TkWallet, you may mine by going to the "Mining" menu and selecting "Launch Miner", which will start the miner for your current address.
    > If you want to mine for another address, want more control, or are not using TkWallet, you can manually start the miner:
-   `./miner --address (address) --threads (number of threads/CPU cores to use) --log-level 4 --daemon-port 12991` or just see `./miner --help` for all options.
+   `./miner --address (address) --threads (number of threads/CPU cores to use) --log-level 4 --daemon-rpc-port 12991` or just see `./miner --help` for all options.
    
 4. What about a GPU miner?
    > In RCoinX's early stage, a GPU miner would increase difficulty and make it hard for people to CPU mine it. It is not in anyone's interest to start GPU mining early on.
