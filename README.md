@@ -25,7 +25,7 @@ The anonymous message system allows you to send an anonymous message to anyone w
 The RCoin wallet can be downloaded from links below:
 
 * Source Code: see below
-* [Windows 64-bit Binaries](/wallet_win64.zip)
+* [Windows 64-bit Binaries](/wallet-win64.zip)
 
 A standard [Forknote](http://forknote.net) client may be used, provided you have the RCoin configuration file: [coin.conf](https://github.com/tinyrcoin/tkwallet/raw/master/coin.conf).
 
