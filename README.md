@@ -42,19 +42,24 @@ Currently offline.
 ## FAQ
 
 1. What about the old RCoin?
-   The old RCoin had various issues, from not working at all to too much inflation.
+   > The old RCoin had various issues, from not working at all to too much inflation.
    
 2. What's TkWallet?
-   TkWallet (and it's current version, TkWallet2X) is the GUI wallet software that was designed for RCoin.
+   > TkWallet (and it's current version, TkWallet2X) is the GUI wallet software that was designed for RCoin.
    
 3. How do I mine?
-   If you are using TkWallet, you may mine by going to the "Mining" menu and selecting "Launch Miner", which will start the miner for your current address.
-   If you want to mine for another address, want more control, or are not using TkWallet, you can manually start the miner:
+   > If you are using TkWallet, you may mine by going to the "Mining" menu and selecting "Launch Miner", which will start the miner for your current address.
+   > If you want to mine for another address, want more control, or are not using TkWallet, you can manually start the miner:
    `./miner --address (address) --threads (number of threads/CPU cores to use) --log-level 4 --daemon-port 12991` or just see `./miner --help` for all options.
    
 4. What about a GPU miner?
-   In RCoinX's early stage, a GPU miner would increase difficulty and make it hard for people to CPU mine it. It is not in anyone's interest to start GPU mining early on.
+   > In RCoinX's early stage, a GPU miner would increase difficulty and make it hard for people to CPU mine it. It is not in anyone's interest to start GPU mining early on.
    
 5. ASIC mining?
-   Did you even read the first sentence!?!
+   > Did you even read the first sentence!?!
    
+## Roadmap
+
+- [x] Release RCoinX 1.0
+- [ ] Get on at least one exchange.
+- [ ] Improve anonymous message system
