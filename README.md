@@ -68,6 +68,7 @@ We have two mining pools:
 
 * [RCoinX Chain Miner](http://rcoinx.chain-miner.com/)
 * [LAB Binary Mining](http://labbinarymining.com/)
+* [XRX.easygarlic.net](https://xrx.easygarlic.net/)
 
 ## Roadmap
 
