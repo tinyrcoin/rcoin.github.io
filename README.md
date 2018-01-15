@@ -3,9 +3,7 @@
 RCoin is a decentralized peer-to-peer currency building upon the ideas of Bitcoin. The latest version, RCoinX, is a CryptoNote based cryptocurrency that I'm sure you'll find is convenient and great to use. RCoin is designed to be ASIC resistant by requiring relatively
 large amounts of memory per hash.
 
-**News: We have switched to TkWallet3X from TkWallet2X -- should fix issues on Windows 10**
-
-**News: Wallet binaries moved to new CDN**
+**News: We have updated to TkWallet3X and added support for lightweight wallets (like Electrum)**
 
 **News: We have an IRC channel: ##ronsor on irc.freenode.net - [WebChat](http://kiwiirc.com/client/irc.freenode.net/##ronsor)**
 
@@ -31,6 +29,7 @@ The anonymous message system allows you to send an anonymous message to anyone w
 The RCoin wallet can be downloaded from links below:
 
 * Source Code: see below
+* Lightweight Wallet is included with regular downloads.
 * [Windows 64-bit Binaries](https://rcoin.surge.sh/wallet3x-win64.zip) \*(note)
 
 Note: We have switched to TkWallet3x. Wallets cannot be imported from TkWallet2x -- you must transfer all your funds to the new wallet.
@@ -81,8 +80,10 @@ We have four mining pools:
 
 ## Roadmap
 
-- [x] Release RCoinX 1.0
-- [-] Get on at least one exchange. (pending)
-- [ ] Finish block explorer. 
-- [ ] Add lightweight wallet support (like Electrum for Bitcoin).
-- [!] Improve anonymous message system. (rewriting)
+```
+[x] Release RCoinX 1.0
+[-] Get on at least one exchange. (pending)
+[ ] Finish block explorer. 
+[ ] Add lightweight wallet support (like Electrum for Bitcoin).
+[!] Improve anonymous message system. (rewriting)
+```
