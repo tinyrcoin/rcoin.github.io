@@ -63,14 +63,18 @@ Currently offline.
    > See also *Mining Pools*
 4. What about a GPU miner?
    > In RCoinX's early stage, a GPU miner would increase difficulty and make it hard for people to CPU mine it. It is not in anyone's interest to start GPU mining early on.
+   > Unfortunately, it's too late now. 
    
 5. ASIC mining?
    > Did you even read the first sentence!?!
    
 ### FAQ: What are the mining pools?
 
-We have three mining pools, unfortunately all of them are not working right now (!):
+We have four mining pools:
+**WORKING**
+* [POOL.YT](http://pool.yt)
 
+**BROKEN**
 * [RCoinX Chain Miner](http://rcoinx.chain-miner.com/)
 * [LAB Binary Mining](http://labbinarymining.com/)
 * [XRX.easygarlic.net](https://xrx.easygarlic.net/)
