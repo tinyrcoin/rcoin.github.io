@@ -3,6 +3,8 @@
 RCoin is a decentralized peer-to-peer currency building upon the ideas of Bitcoin. The latest version, RCoinX, is a CryptoNote based cryptocurrency that I'm sure you'll find is convenient and great to use. RCoin is designed to be ASIC resistant by requiring relatively
 large amounts of memory per hash.
 
+**News: We have switched to TkWallet3X from TkWallet2X -- should fix issues on Windows 10**
+
 **News: Wallet binaries moved to new CDN**
 
 **News: We have an IRC channel: ##ronsor on irc.freenode.net - [WebChat](http://kiwiirc.com/client/irc.freenode.net/##ronsor)**
@@ -11,7 +13,7 @@ large amounts of memory per hash.
 
 ## Latest Version
 
-The current version is RCoinX 1.0.
+The current version is RCoinX 1.1.
 
 ## Features and Information
 
@@ -29,7 +31,10 @@ The anonymous message system allows you to send an anonymous message to anyone w
 The RCoin wallet can be downloaded from links below:
 
 * Source Code: see below
-* [Windows 64-bit Binaries](https://rcoin.surge.sh/wallet-win64.zip)
+* [Windows 64-bit Binaries](https://rcoin.surge.sh/wallet3x-win64.zip) \*(note)
+
+Note: We have switched to TkWallet3x. Wallets cannot be imported from TkWallet2x -- you must transfer all your funds to the new wallet.
+TkWallet3X is compatible with command line simplewallet wallets. TkWallet3X can run alongside TkWallet2X. Need to recover funds from an old TkWallet2X wallet? Download the last TkWallet2X version [here](https://rcoin.surge.sh/wallet-win64.zip). TkWallet2X anonymous messages are incompatible with new TkWallet3x anonymous messages.
 
 A standard [Forknote](http://forknote.net) client may be used, provided you have the RCoin configuration file: [coin.conf](https://github.com/tinyrcoin/tkwallet/raw/master/coin.conf).
 
@@ -49,7 +54,7 @@ Currently offline.
    > The old RCoin had various issues, from not working at all to too much inflation.
    
 2. What's TkWallet?
-   > TkWallet (and it's current version, TkWallet2X) is the GUI wallet software that was designed for RCoin.
+   > TkWallet (and it's current version, TkWallet3X) is the GUI wallet software that was designed for RCoin.
    
 3. How do I mine?
    > If you are using TkWallet, you may mine by going to the "Mining" menu and selecting "Launch Miner", which will start the miner for your current address.
@@ -64,7 +69,7 @@ Currently offline.
    
 ### FAQ: What are the mining pools?
 
-We have two mining pools:
+We have three mining pools, unfortunately all of them are not working right now (!):
 
 * [RCoinX Chain Miner](http://rcoinx.chain-miner.com/)
 * [LAB Binary Mining](http://labbinarymining.com/)
