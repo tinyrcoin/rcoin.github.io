@@ -40,9 +40,9 @@ A standard [Forknote](http://forknote.net) client may be used, provided you have
 
 ### Source Code
 
-RCoin currently is based on Forknote. You may obtain our approved copy of the source tree [here](http://github.com/tinyrcoin/forknote). Compiling this will provide you with the command line wallet and daemon. You will need the RCoin "coin.conf" config file, which is available in the [TkWallet2X Repository](https://github.com/tinyrcoin/tkwallet).
+RCoin currently is based on Forknote. You may obtain our approved copy of the source tree [here](http://github.com/tinyrcoin/forknote). Compiling this will provide you with the command line wallet and daemon. You will need the RCoin "coin.conf" config file, which is available in the [TkWallet3X Repository](https://github.com/tinyrcoin/tkwallet).
 
-If you want the GUI wallet (which you likely do), please check the TkWallet2X Repository -- link provided above.
+If you want the GUI wallet (which you likely do), please check the TkWallet3X Repository -- link provided above.
 
 ## Block Explorer
 
@@ -78,7 +78,7 @@ We have three mining pools, unfortunately all of them are not working right now 
 ## Roadmap
 
 - [x] Release RCoinX 1.0
-- [ ] Get on at least one exchange.
-- [ ] Finish block explorer.
+- [-] Get on at least one exchange. (pending)
+- [ ] Finish block explorer. 
 - [ ] Add lightweight wallet support (like Electrum for Bitcoin).
-- [ ] Improve anonymous message system
+- [!] Improve anonymous message system. (rewriting)
