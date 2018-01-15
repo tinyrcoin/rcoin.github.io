@@ -3,6 +3,8 @@
 RCoin is a decentralized peer-to-peer currency building upon the ideas of Bitcoin. The latest version, RCoinX, is a CryptoNote based cryptocurrency that I'm sure you'll find is convenient and great to use. RCoin is designed to be ASIC resistant by requiring relatively
 large amounts of memory per hash.
 
+**News: Wallet binaries moved to new CDN
+
 **News: We have an IRC channel: ##ronsor on irc.freenode.net - [WebChat](http://webchat.freenode.net)**
 
 **News: [We need more seed nodes. Click here to apply.](https://github.com/tinyrcoin/tkwallet/issues/1)**
@@ -27,7 +29,7 @@ The anonymous message system allows you to send an anonymous message to anyone w
 The RCoin wallet can be downloaded from links below:
 
 * Source Code: see below
-* [Windows 64-bit Binaries](/wallet-win64.zip)
+* [Windows 64-bit Binaries](https://rcoin.surge.sh/wallet-win64.zip)
 
 A standard [Forknote](http://forknote.net) client may be used, provided you have the RCoin configuration file: [coin.conf](https://github.com/tinyrcoin/tkwallet/raw/master/coin.conf).
 
