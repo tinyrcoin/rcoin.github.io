@@ -5,7 +5,7 @@ large amounts of memory per hash.
 
 **News: Wallet binaries moved to new CDN**
 
-**News: We have an IRC channel: ##ronsor on irc.freenode.net - [WebChat](http://webchat.freenode.net)**
+**News: We have an IRC channel: ##ronsor on irc.freenode.net - [WebChat](http://kiwiirc.com/client/irc.freenode.net/##ronsor)**
 
 **News: [We need more seed nodes. Click here to apply.](https://github.com/tinyrcoin/tkwallet/issues/1)**
 
