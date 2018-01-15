@@ -62,7 +62,10 @@ Currently offline.
    
 ### FAQ: What are the mining pools?
 
-We have only one mining pool currently: http://labbinarymining.com/
+We have two mining pools:
+
+* [RCoinX Chain Miner](http://rcoinx.chain-miner.com/)
+* [LAB Binary Mining](http://labbinarymining.com/)
 
 ## Roadmap
 
