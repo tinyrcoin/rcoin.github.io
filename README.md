@@ -7,6 +7,8 @@
 RCoin is a decentralized peer-to-peer currency building upon the ideas of Bitcoin. The latest version, RCoinX, is a CryptoNote based cryptocurrency that I'm sure you'll find is convenient and great to use. RCoin is designed to be ASIC resistant by requiring relatively
 large amounts of memory per hash.
 
+**News: TkWallet3X's anonymous messaging is finished! E-Mail like messaging on the blockchain!**
+
 **News: We have updated to TkWallet3X and added support for lightweight wallets (like Electrum)**
 
 **News: We have an IRC channel: ##ronsor on irc.freenode.net - [WebChat](http://kiwiirc.com/client/irc.freenode.net/##ronsor) or use Discord: [Join](https://discord.gg/UVcjJBb)**
