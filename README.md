@@ -89,7 +89,7 @@ We have four mining pools:
 ```
 [x] Release RCoinX 1.0
 [-] Get on at least one exchange. (pending)
-[ ] Finish block explorer. 
+[-] Finish block explorer. (pending)
 [x] Add lightweight wallet support (like Electrum for Bitcoin).
-[!] Improve anonymous message system. (rewriting)
+[x] Improve anonymous message system. (rewriting)
 ```
