@@ -13,7 +13,10 @@ RCoinX is a cryptonote-based coin. This means it uses the CryptoNight hashing al
 
 RCoinX is limited to 100 kilobytes (100,000 bytes) for transaction sizes. It has an expected block time of 10 seconds and miners' rewards are "unlocked" instantly.
 
-RCoinX will never have master nodes.
+RCoinX does not currently have master nodes.
+
+Proof of work is used for verifying transactions. Proof of stake is planned to be implemented eventually.
+
 
 ## 2. Anonymous Messaging Protocol
 
