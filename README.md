@@ -37,6 +37,7 @@ The RCoin wallet can be downloaded from links below:
 * Source Code: see below
 * Lightweight Wallet is included with regular downloads.
 * [Windows 64-bit Binaries](https://rcoin.surge.sh/wallet3x-win64.zip) \*(note)
+* [Linux 64-bit Binaries](https://rcoin.surge.sh/wallet3x-linux64.tgz) 
 
 Note: We have switched to TkWallet3x. Wallets cannot be imported from TkWallet2x -- you must transfer all your funds to the new wallet.
 TkWallet3X is compatible with command line simplewallet wallets. TkWallet3X can run alongside TkWallet2X. Need to recover funds from an old TkWallet2X wallet? Download the last TkWallet2X version [here](https://rcoin.surge.sh/wallet-win64.zip). TkWallet2X anonymous messages are incompatible with new TkWallet3x anonymous messages.
@@ -80,9 +81,8 @@ We have four mining pools:
 * [POOL.YT](http://pool.yt)
 
 **BROKEN**
-* [RCoinX Chain Miner](http://rcoinx.chain-miner.com/)
-* [LAB Binary Mining](http://labbinarymining.com/)
-* [XRX.easygarlic.net](https://xrx.easygarlic.net/)
+
+*Removed*
 
 ## Roadmap
 
