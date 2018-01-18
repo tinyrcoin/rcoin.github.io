@@ -1,6 +1,4 @@
-# RCoin
-----
-
+**[AIRDROP: GET 25 XRX FREE](/airdrop)**
 **Translations: [RU](/index_ru)**
 
 ----
