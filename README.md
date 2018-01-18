@@ -54,7 +54,7 @@ If you want the GUI wallet (which you likely do), please check the TkWallet3X Re
 
 ## Block Explorer
 
-Currently offline.
+[Click Here](http://rcoinx-explorer.herokuapp.com)
 
 ## FAQ
 
@@ -80,6 +80,7 @@ Currently offline.
 
 We have four mining pools:
 **WORKING**
+
 * [POOL.YT](http://pool.yt)
 
 **BROKEN**
@@ -91,7 +92,9 @@ We have four mining pools:
 ```
 [x] Release RCoinX 1.0
 [-] Get on at least one exchange. (pending)
-[-] Finish block explorer. (pending)
+[x] Finish block explorer. (done by @Kraken on the Discord)
 [x] Add lightweight wallet support (like Electrum for Bitcoin).
-[x] Improve anonymous message system. (rewriting)
+[x] Improve anonymous message system. (works)
+[ ] Work on web wallet
+[ ] Add support for issuing tokens
 ```
