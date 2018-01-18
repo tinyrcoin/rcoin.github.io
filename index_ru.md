@@ -1,4 +1,5 @@
 # RCoin
+**[AIRDROP: GET 25 XRX FREE](/airdrop)**
 
 **НА БЛОКЕ 40,000 СЛУЧИТСЯ ХАРД ФОРК; ПОЖАЛУЙСТА ОБНОВИТЕ ФАЙЛ “coin.conf” ИЛИ TkWallet.**
 
