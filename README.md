@@ -11,11 +11,7 @@ large amounts of memory per hash.
 
 **News: TkWallet3X's anonymous messaging is finished! E-Mail like messaging on the blockchain!**
 
-**News: We have updated to TkWallet3X and added support for lightweight wallets (like Electrum)**
-
-**News: We have an IRC channel: ##ronsor on irc.freenode.net - [WebChat](http://kiwiirc.com/client/irc.freenode.net/##ronsor) or use Discord: [Join](https://discord.gg/UVcjJBb)**
-
-**News: [We need more seed nodes. Click here to apply.](https://github.com/tinyrcoin/tkwallet/issues/1)**
+**We have an IRC channel: ##ronsor on irc.freenode.net - [WebChat](http://kiwiirc.com/client/irc.freenode.net/##ronsor) or use Discord: [Join](https://discord.gg/UVcjJBb)**
 
 ## Latest Version
 
