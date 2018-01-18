@@ -4,6 +4,8 @@
 **Translations: [RU](/index_ru)**
 
 ----
+<span style="color:red">**AT BLOCK 40,000 THERE WILL BE A HARD FORK; PLEASE UPDATE YOUR "coin.conf" OR TkWallet THEN.**</span>
+
 RCoin is a decentralized peer-to-peer currency building upon the ideas of Bitcoin. The latest version, RCoinX, is a CryptoNote based cryptocurrency that I'm sure you'll find is convenient and great to use. RCoin is designed to be ASIC resistant by requiring relatively
 large amounts of memory per hash.
 
