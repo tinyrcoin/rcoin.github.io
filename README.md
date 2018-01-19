@@ -48,7 +48,7 @@ If you want the GUI wallet (which you likely do), please check the TkWallet3X Re
 
 ## Block Explorer
 
-[Click Here](http://rcoinx-explorer.herokuapp.com)
+[Click Here](http://explorer.yt/)
 
 ## FAQ
 
