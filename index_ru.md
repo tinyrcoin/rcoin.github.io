@@ -48,7 +48,7 @@ RCoin на данный момент базируется на Forknote. Вы м
 
 ## Block Explorer
 
-[RCoinX Block Explorer](http://rcoinx-explorer.herokuapp.com/)
+[RCoinX Block Explorer](http://explorer.yt/)
 
 ## FAQ
 
